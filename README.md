@@ -6,7 +6,7 @@
 <br>
 <b>Example screenshots of our completed geography quiz app.</b><br><br>
 <b>Long Island Quiz Question - Start Screen</b>&nbsp;&nbsp;:sunflower:<br><br>
-![Alt text](https://github.com/vpluma/stopwatch/blob/master/screenshots/longisland.png "Long Island Question")
+![Alt text](https://github.com/vpluma/geoquiz/blob/master/screenshots/longisland.png "Long Island Question")
 <br><br>
 <b>Long Island Question & Answer Using A Toast</b>&nbsp;&nbsp;:tropical_fish:<br><br>
 ![Alt text](https://github.com/vpluma/geoquiz/blob/master/screenshots/longisland_toast.png "Long Island Question & Answer")
